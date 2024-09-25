@@ -3,7 +3,7 @@ Me
 -->
 <div id="header" align="center">
     <h1>Hello there, I'm Ahmed Nagy</h1>
-    <img src="[insert an image of yourself or something you like]" width="200" />
+    <!-- <img src="https://avatars.githubusercontent.com/u/77116125?v=4" width="200" /> -->
     <p>Backend Engineer with a solid foundation in software development.</p>
     <p>Proficient in the .NET stack, with hands-on experience in building and optimizing robust backend systems.</p>
 </div>
