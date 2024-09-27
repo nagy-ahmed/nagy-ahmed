@@ -1,5 +1,5 @@
 ### **Agenda**
-* [Heading](#heading) 
+* [Heading](#Heading) 
 * [Text styling](#Textstyling) 
 * [Links](#Links) 
 * [Block of Quots](#Quots) 
@@ -10,7 +10,7 @@
 `make id for element {#id}`
 [test](#id)
 ___
-# Heading {#heading}
+# Heading
 # h1 `#h1`
 ...
 ###### h6 `#h6`
@@ -98,7 +98,7 @@ ___
 
 ___
 
-### Checklist {#Checklist}
+### Checklist
 - [ ] 1 `->` `- [ ] `
 - [ ] 2 `->` `- [ ] `
 - [x] 3 `->` `- [x] `
