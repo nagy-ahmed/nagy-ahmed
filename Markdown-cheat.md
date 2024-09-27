@@ -1,13 +1,14 @@
-### **Agenda**
+## **Agenda**
 * [Heading](#Heading) 
-* [Text styling](#Textstyling) 
+* [Text styling](#Text-Styling) 
 * [Links](#Links) 
-* [Block of Quots](#Quots) 
+* [Block of Quots](#Block-of-Quots) 
 * [Lists](#Lists) 
-* [Table](#talbes) 
-* [Checklist](#Checklist) 
+* [Tables](#Tables) 
+* [Checklist](#Checklist)
+  
 `Link to heading or element in page use [name](id)`
-`make id for element {#id}`
+`make id for element {#Hi}`
 [test](#id)
 ___
 # Heading
@@ -15,7 +16,7 @@ ___
 ...
 ###### h6 `#h6`
 ___
-### Text Styling {#Textstyling}
+## Text Styling {#Textstyling}
 this is **bold**  -> `this is **bold**`
 
 this is *italics* -> `this is *italics*`
@@ -32,7 +33,7 @@ x^2^  -> `x^2^`
 
 H~2~O --> `x^2^`
 
-###### Hi {#id}  
+###### Hi
 :smile: --> `:smile:`
 :) --> `:)`
 :| --> `:|`
@@ -56,7 +57,7 @@ block of code
 
 ___
 
-### Links {#Links}
+## Links
 [Google](https://google.com)    -> `[work show](link)`
 <https://google.com>     -> `<link>`
 
@@ -64,15 +65,16 @@ ___
 
 ___
 
-### Block of Quots {#Quots}
+## Block of Quots
 >one   `>`
+>
 >two   `>`
 >>2.1   `>>`
 >
 >three `>`
 ___
 
-### Lists {#Lists}
+## Lists
 1. one   `-> 1. `
     1. df `-> tab 1. `
 1. two `-> 1. or 2. `
@@ -83,7 +85,7 @@ ___
 
 ___
 
-### Tables {#talbes}
+## Tables
 `using | to separate between coloumns `
 `using - to separate between first row and remain body `
 `using : to align cells  `  `center :---:` `left :---` `right ---:`
@@ -91,6 +93,7 @@ ___
 |:------:|-------:|
 |cell11  |cel12   |
 |cell21  |cel22   |
+
 >|column_1|column_2|
 |:------: |------: |
 |cell11  |cel12   |
@@ -98,7 +101,7 @@ ___
 
 ___
 
-### Checklist
+## Checklist
 - [ ] 1 `->` `- [ ] `
 - [ ] 2 `->` `- [ ] `
 - [x] 3 `->` `- [x] `
