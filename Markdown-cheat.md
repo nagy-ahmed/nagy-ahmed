@@ -9,7 +9,7 @@
   
 `Link to heading or element in page use [name](id)`
 `make id for element {#Hi}`
-[test](#id)
+[test](#Hi)
 ___
 # Heading
 # h1 `#h1`
