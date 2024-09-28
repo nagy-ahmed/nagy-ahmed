@@ -16,7 +16,7 @@ ___
 ...
 ###### h6 `#h6`
 ___
-## Text Styling {#Textstyling}
+## Text Styling
 this is **bold**  -> `this is **bold**`
 
 this is *italics* -> `this is *italics*`
